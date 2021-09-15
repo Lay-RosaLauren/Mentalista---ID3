@@ -1,0 +1,20 @@
+body {
+  font-family: "Roboto Mono", monospace;
+  min-height: 600px;
+  background-image: url("https://tajoffers.com/ag/2018/march/CS/mentalist.gif");
+  background-image: initial;
+  background-size: cover;
+  background-position: center bottom;
+  background-repeat: no-repeat;
+}
+
+.container {
+  text-align: center;
+  padding: 20px;
+  height: 100vh;
+}
+
+.page-title {
+  color: #993366;
+  margin: 0 0 5px;
+}
